@@ -1,5 +1,8 @@
 # wolt-backend-2024
-Assignment for Wolt backend internship 2024
+Assignment for Wolt backend internship 2024.
+
+## Description
+The original description can be found [here](https://github.com/woltapp/engineering-internship-2024).
 
 ## Rationale
 I completed the assignment in Python, using FastAPI due to its feature set and ease of use compared to, e.g., Flask.
